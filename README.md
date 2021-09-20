@@ -1,6 +1,5 @@
 
 <h1 align="center">Hey 👋, I'm Houssem Ben Ali</h1>
-<h4 align="center">A 27 year old Ops Engineer from Tunisia</h4>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=hbenali"/></div>
 
