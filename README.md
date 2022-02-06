@@ -13,8 +13,9 @@
 </div>
 <br/>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+<br/><br/>
 
-### Watch my contribution graph get eaten by the snake 🐍
+<h3> Watch my contribution graph get eaten by the snake 🐍</h3>
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/hbenali/hbenali/blob/output/github-contribution-grid-snake.svg)
