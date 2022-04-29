@@ -19,5 +19,3 @@
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/hbenali/hbenali/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://app.daily.dev/hbenali"><img src="https://api.daily.dev/devcards/4c142a197d054bfda237a6043f21eb92.png?r=74p" width="400" alt="Houssem Ben Ali's Dev Card"/></a>
