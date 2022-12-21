@@ -5,15 +5,13 @@
 
 ----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=dracula#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=hbenali&count_private=true&show_icons=true&theme=dracula#gh-dark-mode-only" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbenali&theme=dracula&langs_count=15&layout=compact&hide=php#gh-dark-mode-only" />
 </div>
 <br/>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
-<br/><br/>
 
 <h3> Watch my contribution graph get eaten by the snake 🐍</h3>
 
