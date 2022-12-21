@@ -18,4 +18,5 @@
 <h3> Watch my contribution graph get eaten by the snake 🐍</h3>
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/hbenali/hbenali/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/hbenali/hbenali/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/hbenali/hbenali/blob/output/github-snake-dark.svg#gh-dark-mode-only)
