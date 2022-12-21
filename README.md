@@ -5,7 +5,7 @@
 
 ----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=hbenali&count_private=true&show_icons=true&theme=dracula#gh-dark-mode-only" />
