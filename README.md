@@ -5,15 +5,15 @@
 
 ----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=dracula#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hbenali&theme=onedark#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hbenali#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
-[![trophy](https://github-readme-stats.vercel.app/api?username=hbenali&count_private=true&show_icons=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy](https://github-readme-stats.vercel.app/api?username=hbenali&count_private=true&show_icons=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 [![trophy](https://github-readme-stats.vercel.app/api?username=hbenali&count_private=true&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
-[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenali&theme=dracula&langs_count=15&layout=compact&hide=php)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenali&theme=onedark&langs_count=15&layout=compact&hide=php)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 [![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenali&langs_count=15&layout=compact&hide=php)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
