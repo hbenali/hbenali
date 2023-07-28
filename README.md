@@ -31,9 +31,3 @@
 [![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenali&theme=onedark&langs_count=15&layout=compact&hide=php)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 [![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=hbenali&langs_count=15&layout=compact&hide=php)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
-
-<h3> Watch my contribution graph get eaten by the snake 🐍</h3>
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![GitHub Snake Light](https://github.com/hbenali/hbenali/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/hbenali/hbenali/blob/output/github-snake-dark.svg#gh-dark-mode-only)
