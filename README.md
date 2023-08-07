@@ -7,7 +7,7 @@
 ## 🔭 Currently playing wtih
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-DockerEE-informational?style=flat&logo=docker&logoColor=lightblue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=lightblue)
 ![](https://img.shields.io/badge/Tools-Puppet-informational?style=flat&logo=Puppet&logoColor=yellow)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=blue)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=blueviolet)
@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=lightblue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
+
 
 
 ----
