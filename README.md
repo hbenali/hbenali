@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=yellow)
+
 
 
 
