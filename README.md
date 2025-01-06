@@ -4,7 +4,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=hbenali&color=brightgreen"/></div>
 
 
-## 🔭 Currently playing wtih
+## 🔭 Currently playing with
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=lightblue)
