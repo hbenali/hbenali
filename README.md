@@ -66,8 +66,6 @@ I actively contribute to open-source projects, particularly around **DevOps, pla
 
 Some of my work can be found across:
 
-- 🏢 **Meeds-io**
-- 🌐 **eXo Platform**
 - 🔧 Infrastructure & automation tooling
 - ⚙️ CI/CD and developer productivity improvements
 
